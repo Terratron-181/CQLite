@@ -1,0 +1,77 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.out
+*.ko
+*.obj
+*.elf
+*.exe
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+*.elf
+
+# Debug files
+*.dSYM/
+*.log
+*.su
+*.idb
+*.pdb
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+# CMake cache and generated files
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+
+# Coverage reports
+*.lcov
+.coverage/
